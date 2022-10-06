@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\AccelZero\\.nuget\\packages\\": {}
+    "C:\\Users\\TheAccelZero\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Лабы\\Lab1\\Lab1.csproj",
+      "projectUniqueName": "Z:\\Git\\C-Sharp\\Lab1\\Lab1.csproj",
       "projectName": "Lab1",
-      "projectPath": "E:\\Лабы\\Lab1\\Lab1.csproj",
-      "packagesPath": "C:\\Users\\AccelZero\\.nuget\\packages\\",
-      "outputPath": "E:\\Лабы\\Lab1\\obj\\",
+      "projectPath": "Z:\\Git\\C-Sharp\\Lab1\\Lab1.csproj",
+      "packagesPath": "C:\\Users\\TheAccelZero\\.nuget\\packages\\",
+      "outputPath": "Z:\\Git\\C-Sharp\\Lab1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\AccelZero\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\TheAccelZero\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,6 +32,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "projectReferences": {}
         }
       },
@@ -43,6 +44,7 @@
     },
     "frameworks": {
       "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
         "imports": [
           "net461",
           "net462",
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

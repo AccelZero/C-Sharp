@@ -11,3 +11,17 @@ E:\Лабы\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
 E:\Лабы\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
 E:\Лабы\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
 E:\Лабы\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
+Z:\Git\C-Sharp\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+Z:\Git\C-Sharp\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+Z:\Git\C-Sharp\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+Z:\Git\C-Sharp\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+Z:\Git\C-Sharp\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+Z:\Git\C-Sharp\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+Z:\Git\C-Sharp\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+Z:\Git\C-Sharp\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Git\C-Sharp\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+Z:\Git\C-Sharp\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+Z:\Git\C-Sharp\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+Z:\Git\C-Sharp\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+Z:\Git\C-Sharp\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+Z:\Git\C-Sharp\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
